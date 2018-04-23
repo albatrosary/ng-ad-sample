@@ -1,4 +1,4 @@
-# Angular Azure AS Sample
+# Angular Azure AD Sample
 
 ```
 ng new ng-ad-sample --prefix aa --routing
